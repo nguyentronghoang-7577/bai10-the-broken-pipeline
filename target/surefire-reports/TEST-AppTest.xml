@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="AppTest" time="0.487" tests="5" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="25"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Nguyen Trong Hoang\Desktop\LTNC\NguyenTrongHoang_25020162_Week9\Bai09\target\test-classes;C:\Users\Nguyen Trong Hoang\Desktop\LTNC\NguyenTrongHoang_25020162_Week9\Bai09\target\classes;C:\Users\Nguyen Trong Hoang\.m2\repository\ch\qos\logback\logback-classic\1.4.11\logback-classic-1.4.11.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\ch\qos\logback\logback-core\1.4.11\logback-core-1.4.11.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\org\slf4j\slf4j-api\2.0.7\slf4j-api-2.0.7.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.2\junit-jupiter-5.9.2.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.2\junit-jupiter-api-5.9.2.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\org\junit\platform\junit-platform-commons\1.9.2\junit-platform-commons-1.9.2.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.2\junit-jupiter-params-5.9.2.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.2\junit-jupiter-engine-5.9.2.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\org\junit\platform\junit-platform-engine\1.9.2\junit-platform-engine-1.9.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Saigon"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="25"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-25.0.2\bin"/>
+    <property name="sun.java.command" value="C:\Users\Nguyen Trong Hoang\AppData\Local\Temp\surefire3209286964296111466\surefirebooter-20260428222217151_3.jar C:\Users\Nguyen Trong Hoang\AppData\Local\Temp\surefire3209286964296111466 2026-04-28T22-22-16_739-jvmRun1 surefire-20260428222217151_1tmp surefire_0-20260428222217151_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Nguyen Trong Hoang\Desktop\LTNC\NguyenTrongHoang_25020162_Week9\Bai09\target\test-classes;C:\Users\Nguyen Trong Hoang\Desktop\LTNC\NguyenTrongHoang_25020162_Week9\Bai09\target\classes;C:\Users\Nguyen Trong Hoang\.m2\repository\ch\qos\logback\logback-classic\1.4.11\logback-classic-1.4.11.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\ch\qos\logback\logback-core\1.4.11\logback-core-1.4.11.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\org\slf4j\slf4j-api\2.0.7\slf4j-api-2.0.7.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.2\junit-jupiter-5.9.2.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.2\junit-jupiter-api-5.9.2.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\org\junit\platform\junit-platform-commons\1.9.2\junit-platform-commons-1.9.2.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.2\junit-jupiter-params-5.9.2.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.2\junit-jupiter-engine-5.9.2.jar;C:\Users\Nguyen Trong Hoang\.m2\repository\org\junit\platform\junit-platform-engine\1.9.2\junit-platform-engine-1.9.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Nguyen Trong Hoang"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2026-01-20"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-25.0.2"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Nguyen Trong Hoang\Desktop\LTNC\NguyenTrongHoang_25020162_Week9\Bai09"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Nguyen Trong Hoang\AppData\Local\Temp\surefire3209286964296111466\surefirebooter-20260428222217151_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="25.0.2+10-LTS-69"/>
+    <property name="user.name" value="Nguyen Trong Hoang"/>
+    <property name="stdout.encoding" value="UTF-8"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Nguyen Trong Hoang\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\NGUYEN~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="25.0.2"/>
+    <property name="user.dir" value="C:\Users\Nguyen Trong Hoang\Desktop\LTNC\NguyenTrongHoang_25020162_Week9\Bai09"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-25.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Nguyen Trong Hoang\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\gradle\latest\bin;C:\Users\Nguyen Trong Hoang\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\maven\latest\bin;C:\Program Files\Java\jdk-25.0.2\bin;C:\Users\Nguyen Trong Hoang\AppData\Local\Programs\Microsoft VS Code;C:\Program Files\Java\jdk-25.0.2\\bin;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Neovim\bin;C:\mingw64;C:\Program Files\wkhtmltopdf\bin;C:\mingw64\bin;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\Pandoc\;C:\texlive\2025\tlpkg\tlperl\bin;C:\Android;C:\Windows\System32;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;C:\apache-maven-3.9.14-bin\apache-maven-3.9.14\bin;C:\Program Files\platform-tools;C:\Users\Nguyen Trong Hoang\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\Nguyen Trong Hoang\AppData\Local\Programs\Python\Python313\;C:\Users\Nguyen Trong Hoang\AppData\Local\Programs\Python\Launcher\;C:\Users\Nguyen Trong Hoang\AppData\Local\Microsoft\WindowsApps;C:\Users\Nguyen Trong Hoang\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Nguyen Trong Hoang\AppData\Local\Pandoc&quot; ;C:\Users\Nguyen Trong Hoang\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files\JetBrains\IntelliJ IDEA 2025.3.3\bin;c:\Users\Nguyen Trong Hoang\.vscode\extensions\vscjava.vscode-java-debug-0.59.0\bundled\scripts\noConfigScripts;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="UTF-8"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.0.2+10-LTS-69"/>
+    <property name="stdin.encoding" value="Cp1252"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="69.0"/>
+  </properties>
+  <testcase name="testDivideByZero" classname="AppTest" time="0.414"/>
+  <testcase name="testAdd" classname="AppTest" time="0.003"/>
+  <testcase name="TestMain" classname="AppTest" time="0.017">
+    <system-out><![CDATA[2026-04-28 22:22:19 [main] INFO  App - Starting Application...
+2026-04-28 22:22:19 [main] INFO  App - Phep cong: 10 + 5 = 15
+2026-04-28 22:22:19 [main] INFO  App - Phep chia: 10 / 5 = 2.0
+]]></system-out>
+  </testcase>
+  <testcase name="testAddNegative" classname="AppTest" time="0.002"/>
+  <testcase name="testDivideSuccess" classname="AppTest" time="0.004"/>
+</testsuite>
